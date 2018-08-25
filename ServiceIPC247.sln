@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceIPC247", "ServiceIPC247\ServiceIPC247.csproj", "{72DF9EA3-533A-4207-8933-C7B14A089D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72DF9EA3-533A-4207-8933-C7B14A089D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DF9EA3-533A-4207-8933-C7B14A089D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DF9EA3-533A-4207-8933-C7B14A089D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DF9EA3-533A-4207-8933-C7B14A089D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57688E43-810E-4FA1-A5F2-ED06553E20CE}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dtson.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ServiceIPC247\\ServiceIPC247.csproj
+		SccProjectName1 = ServiceIPC247
+		SccLocalPath1 = ServiceIPC247
+	EndGlobalSection
+EndGlobal
